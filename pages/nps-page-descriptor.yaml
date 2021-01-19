@@ -10,6 +10,6 @@ seo: false
 charset: utf-8
 status: published
 widgets:
-  - code: nps-nonexistent-widget
-    config: null
-    pos: 4
+#  - code: nps-nonexistent-widget
+#    config: null
+#    pos: 4
