@@ -3,7 +3,7 @@ description: Bundle for ENG-1754
 
 components:
   pages:
-    - pages/nps-descriptor.yaml
+    - pages/nps-page-descriptor.yaml
 
   fragments:
     - fragments/nps-fragment-descriptor.yaml
