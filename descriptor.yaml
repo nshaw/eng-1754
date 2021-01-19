@@ -1,0 +1,11 @@
+code: nshaw-eng-1754
+description: Bundle for ENG-1754
+
+components:
+  pages:
+    - pages/nps-descriptor.yaml
+
+  fragments:
+    - fragments/nps-fragment-descriptor.yaml
+
+
